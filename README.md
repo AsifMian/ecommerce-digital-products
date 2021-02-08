@@ -1,6 +1,6 @@
 # ecommerce-digital-products
 I developed this application at xlogic solutions Using laravel Framework\
-(written tutorial for client to upload on vps (he wanted to upload it for his resellers by himself) )
+[written [tutorial](https://github.com/AsifMian/ecommerce-digital-products/blob/main/How%20to%20deploy%20the%20digital.docx) for client to upload on vps (he wanted to upload it for his resellers by himself)]
 ## User Panel
 ![alt text](https://github.com/AsifMian/ecommerce-digital-products/blob/main/9.png)
 ![alt text](https://github.com/AsifMian/ecommerce-digital-products/blob/main/1.png)
