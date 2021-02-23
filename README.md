@@ -1,9 +1,19 @@
 # ecommerce-digital-products
 I developed this application at xlogic solutions Using laravel Framework\
-  Basically there were two types of products only having different logic to implement\
+  Basically there were two types of products having different logic to implement\
   ```
     1.code type
     2.Code+Api type
+ ```
+ ## Short Description:
+ ```
+ When ever user purchase a one of two type digital products a unique serial code generated according to the client requirements and that was saved 
+ to a .cfg file ## cfg file path will be given Admin at the time of admin adding the product the path can be reltive or absolute and that path can be same for all products 
+ can vary according to products.
+ 
+ 1. When Code Type product will be purchased a verification email is sent to user with serial code and user can access the code in his user panel
+ 2. When Code+API Type product same procedure but for this type and API call is made on purchase if Admin has enabled the Force Activation of the product otherwise user will see Activation button on his/her panel to active the product if already activated user will be able to reactivate the product And we have to save the api response to show the user accordingly....
+ 3. Some other cool requirements were there...but overall it was fun to develop this project
  ```
 [written [tutorial](https://github.com/AsifMian/ecommerce-digital-products/blob/main/How%20to%20deploy%20the%20digital.docx) for client to upload on vps (he wanted to upload it for his resellers by himself)]
 ## User Panel
