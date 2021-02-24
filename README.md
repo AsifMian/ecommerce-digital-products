@@ -5,6 +5,15 @@ I developed this application at xlogic solutions Using laravel Framework\
     1.code type
     2.Code+Api type
  ```
+ ## Part of Requirements:
+ ```
+ 1) Adding the new product will have its own path to the CFG file
+ 2) UNIX absolute path in the server
+ 3) We need the ability to select or add the duration for each product while adding from the backend and admin will be selecting the duration. every product will have its own duration.
+4) We need the ability to enable certain products to be available for guest users or only for registered users or for all of the users.
+5) We need to generate the code line whenever a new product is purchased and the line would be having the duration of that product.
+6) Should be in PHP 7.* version and ubuntu along with Mysql.
+ ```
  ## Short Description:
  ```
  When ever user purchase a one of two type digital products a unique serial code generated according to the client requirements and that was saved 
